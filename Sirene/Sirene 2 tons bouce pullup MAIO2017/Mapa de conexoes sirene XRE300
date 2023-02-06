@@ -1,0 +1,11 @@
+1. Cabo blindado estereo (2x0,30mm - TX30 - microphone cable) para botoes (corte de capa 4,5cm e 3,0cm) - ponteiras femea 	0,95m
+	usar 5cm de conduite para cobrir saída do botao de acionamento
+2. Cabo blindado mono para conexão ampli-microcontrolador (corte de capa 1,0cm cada lado)					0,10m
+3. Fio 0,75 amarelo/vermelho - positivo alimentação interna - ponteira femea (fusivel)						0,45m
+4. Fio 0,75 preto - negativo alimentação interna - ponteira macho								0,45m
+5. Fio 0,75 Azul - pino 3 disparo - ponteira macho										0,45m
+6. Fio 0,75 Verde - pino 5 disparo - ponteira macho										0,45m
+7. Conduite 7mm - passagem interna												0,40m
+8. Fio 0,75 amarelo/vermelho - positivo alimentação externa (pós chave) - ponteira femea (fusivel)				0,45m
+9. Fio 0,75 preto/azul - negativo alimentação externa (bateria) - 2 ponteiras femeas						1,05m
+10. Conduite 7mm - negativo bateria e amarelo pós-chave (corte em 0,34m)							1,00m
